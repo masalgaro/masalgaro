@@ -9,8 +9,8 @@ I'm a computer science/systems engineering student at Universidad EAFIT. Enrolle
 >[!NOTE]
 >This profile is very much still under construction.
 
-**Languages I can use**\
-![Python logo](/pictures-n-gifs/python-logo.png)
+**Languages and tools I can use**\
+![Python logo](/pictures-n-gifs/python-logo.png) ![Java logo](/pictures-n-gifs/java-logo.png) ![Bash logo](/pictures-n-gifs/bash-logo.png) ![MySQL logo](/pictures-n-gifs/mysql-logo.png) ![Django logo](/pictures-n-gifs/django-logo.png)
 <!--
 **masalgaro/masalgaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
