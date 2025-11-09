@@ -1,4 +1,5 @@
 ![A short gif from ENA: DREAM BBQ showing ENA thinking outloud, with her right hand on her hip while her head and left arm rotate around her torso.](/pictures-n-gifs/ena-thinking.gif)
+
 <sub>Taken from ENA: DREAM BBQ by Joel Guerra.</sub>
 
 # Greetings
