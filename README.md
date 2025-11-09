@@ -34,6 +34,10 @@ I'm a computer science/systems engineering student at Universidad EAFIT. Enrolle
         <source media="max-width:80px)">
         <img src="/pictures-n-gifs/R-logo.png" alt="R logo" style="width: 80px;">
 </picture>
+<picture>
+        <source media="max-width:80px)">
+        <img src="/pictures-n-gifs/cpp-logo.png" alt="C plus plus logo" style="width: 80px;">
+</picture>
 
 <!--
 **masalgaro/masalgaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
