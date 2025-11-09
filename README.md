@@ -1,4 +1,16 @@
-![A short gif from ENA: DREAM BBQ showing ENA thinking outloud, with her right hand on her hip while her head and left arm rotate around her torso.]([https://tenor.com/es/view/ena-ena-dream-bbq-dream-bbq-spin-thinking-gif-17044295356604210232](https://media1.tenor.com/m/7ImAUoE73DgAAAAd/ena-ena-dream-bbq.gif))
+![A short gif from ENA: DREAM BBQ showing ENA thinking outloud, with her right hand on her hip while her head and left arm rotate around her torso.](/pictures-n-gifs/ena-thinking.gif)
+
+<sub>Taken from ENA: DREAM BBQ by Joel Guerra.</sub>
+
+# Greetings
+
+I'm a computer science/systems engineering student at Universidad EAFIT. Enrolled since 2023. While in this profile there are a variety of old projects I've done in earlier semesters, as well as some newer ones, I have also been involved in projects such as [WorkSpyder](https://github.com/JaraCalle/WorkSpyder), [Veritas Numercia](https://github.com/Pokloskaya/VeritasNumerica-core) ([and the frontend](https://github.com/Pokloskaya/VeritasNumerica-ui)) and [an implementation of CoAP](https://github.com/Salome-Serna-R/Proyecto1_Telematica).
+
+>[!NOTE]
+>This profile is very much still under construction.
+
+**Languages and tools I can use**\
+![Python logo](/pictures-n-gifs/python-logo.png) ![Java logo](/pictures-n-gifs/java-logo.png) ![Bash logo](/pictures-n-gifs/bash-logo.png) ![MySQL logo](/pictures-n-gifs/mysql-logo.png) ![Django logo](/pictures-n-gifs/django-logo.png)
 <!--
 **masalgaro/masalgaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
