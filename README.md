@@ -1,4 +1,4 @@
-![A short gif from ENA: DREAM BBQ showing ENA thinking outloud, with her right hand on her hip while her head and left arm rotate around her torso.](https://tenor.com/es/view/ena-ena-dream-bbq-dream-bbq-spin-thinking-gif-17044295356604210232)
+![A short gif from ENA: DREAM BBQ showing ENA thinking outloud, with her right hand on her hip while her head and left arm rotate around her torso.]([https://tenor.com/es/view/ena-ena-dream-bbq-dream-bbq-spin-thinking-gif-17044295356604210232](https://media1.tenor.com/m/7ImAUoE73DgAAAAd/ena-ena-dream-bbq.gif))
 <!--
 **masalgaro/masalgaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
