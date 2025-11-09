@@ -3,6 +3,8 @@
 <sub>Taken from ENA: DREAM BBQ by Joel Guerra.</sub>
 
 # Greetings
+
+I'm a computer science/systems engineering student at Universidad EAFIT. Enrolled since 2023. While in this profile there are a variety of old projects I've done in earlier semesters, as well as some newer ones, I have also been involved in projects such as [WorkSpyder](https://github.com/JaraCalle/WorkSpyder) and [Veritas Numercia](https://github.com/Pokloskaya/VeritasNumerica-core) ([and the frontend](https://github.com/Pokloskaya/VeritasNumerica-ui))
 <!--
 **masalgaro/masalgaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
