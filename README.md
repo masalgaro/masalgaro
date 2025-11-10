@@ -38,6 +38,12 @@ I'm a computer science/systems engineering student at Universidad EAFIT. Enrolle
         <source media="max-width:80px)">
         <img src="/pictures-n-gifs/cpp-logo.png" alt="C plus plus logo" style="width: 80px;">
 </picture>
+<br>
+
+## What else do I do?
+
+I have a [personal profile here on GitHub](https://github.com/FreshRipeCherry) that has kind of been collecting dust for the past year or so. I'm working on an indie game there using the *Godot game engine*. Development is slow due to academic responsibilities, but it has been a fun time and the game is fully open source, so check it out if you want to.  
+Other than that I draw stuff and ocassionally engage in creative writing.
 
 <!--
 **masalgaro/masalgaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
