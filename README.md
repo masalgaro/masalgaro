@@ -4,7 +4,7 @@
 
 # Greetings
 
-I'm a computer science/systems engineering student at Universidad EAFIT. Enrolled since 2023. While in this profile there are a variety of old projects I've done in earlier semesters, as well as some newer ones, I have also been involved in projects such as [WorkSpyder](https://github.com/JaraCalle/WorkSpyder), [Veritas Numerica](https://github.com/Pokloskaya/VeritasNumerica-core) ([and the frontend](https://github.com/Pokloskaya/VeritasNumerica-ui)) and [an implementation of CoAP](https://github.com/Salome-Serna-R/Proyecto1_Telematica).
+I'm a computer science/systems engineering student at Universidad EAFIT. Enrolled since 2023. While in this profile there are a variety of old projects I've done in earlier semesters, as well as some newer ones, I have also been involved in projects such as [WorkSpyder](https://github.com/JaraCalle/WorkSpyder), [Veritas Numerica](https://github.com/Pokloskaya/VeritasNumerica-core) ([and the frontend](https://github.com/Pokloskaya/VeritasNumerica-ui)) and [an implementation of the CoAP protocol](https://github.com/Salome-Serna-R/Proyecto1_Telematica).
 
 >[!NOTE]
 >This profile is very much still under construction.
