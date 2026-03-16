@@ -38,12 +38,10 @@ I'm a computer science/systems engineering student at Universidad EAFIT. Enrolle
         <source media="max-width:80px)">
         <img src="/pictures-n-gifs/cpp-logo.png" alt="C plus plus logo" style="width: 80px;">
 </picture>
-<br>
 <picture>
 	<source media="max-width:80px)">
 	<img src="/pictures-n-gifs/PHP-logo.png" alt="PHP logo" style="width:80px;">
 </picture>
-<br>
 <picture>
     <source media="max-width:80px)">
     <img src="/pictures-n-gifs/laravel-logo.png" alt="Laravel logo" style="width:80px;">
